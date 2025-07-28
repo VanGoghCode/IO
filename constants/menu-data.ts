@@ -102,8 +102,8 @@ export const MENU_DATA: MenuData = {
     { name: "Punjabi Lassi", price: 4.95, hasSpice: false },
     { name: "Mango Lassi", price: 4.95, hasSpice: false },
     { name: "Milk", price: 3.95, hasSpice: false },
-    { name: "Soda", price: 3.25, hasSpice: false },
-    { name: "Club Soda", price: 3.25, hasSpice: false },
+    { name: "Soda", price: 3.95, hasSpice: false },
+    { name: "Club Soda", price: 3.95, hasSpice: false },
   ],
   desserts: [
     { name: "Kulfi (Indian style ice cream)", price: 4.95, hasSpice: false },

@@ -1,7 +1,7 @@
 import type { PricingConstants } from "@/types"
 
 export const PRICING: PricingConstants = {
-  SODA_PRICE: 3.25,
+  SODA_PRICE: 3.95,
   ICED_TEA_PRICE: 2.95,
   BEER_SMALL_PRICE: 5.95,
   BEER_LARGE_PRICE: 10.95,
